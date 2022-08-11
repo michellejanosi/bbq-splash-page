@@ -60,10 +60,11 @@ strong { font-weight: 900; }
 
 /* intro section */
 .intro {
-  background-color: #000;
+  background-color: #404040;
   background-image: url(images/ribs.jpg);
   background-size: cover;
   background-position: center;
+  background-blend-mode: multiply;
   padding: 0 .5em 2em;
   display: flex;
   flex-direction: column;
